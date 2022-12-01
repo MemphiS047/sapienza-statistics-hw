@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\hw1\\hw1.csproj": {}
+    "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\hw1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\hw1\\hw1.csproj": {
+    "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\hw1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\hw1\\hw1.csproj",
+        "projectUniqueName": "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\hw1.csproj",
         "projectName": "hw1",
-        "projectPath": "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\hw1\\hw1.csproj",
+        "projectPath": "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\hw1.csproj",
         "packagesPath": "C:\\Users\\hakve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\hw1\\obj\\",
+        "outputPath": "C:\\Users\\hakve\\dev\\github\\sapienza-statistics-hw\\hw1\\hw1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hakve\\AppData\\Roaming\\NuGet\\NuGet.Config",

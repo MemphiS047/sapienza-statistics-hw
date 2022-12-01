@@ -1,4 +1,6 @@
-﻿// Declare variables and then initialize to zero.
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+// Declare variables and then initialize to zero.
 int num1 = 0; int num2 = 0;
 
 // Display title as the C# console calculator app.
@@ -34,6 +36,11 @@ switch (Console.ReadLine())
         Console.WriteLine($"Your result: {num1} * {num2} = " + (num1 * num2));
         break;
     case "d":
+        if(num2 == 0)
+        {
+            Console.WriteLine("Cannot divide with 0");
+            break;
+        }
         Console.WriteLine($"Your result: {num1} / {num2} = " + (num1 / num2));
         break;
 }
